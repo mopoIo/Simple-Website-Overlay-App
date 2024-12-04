@@ -1,6 +1,7 @@
 # 🖥️ Simple Website Overlay App
 
 Display any website as a transparent, click-through overlay on your screen. I made this for a specific case scenario so all windows are scaled to 1920x1080 and then expanded to your actual screen size.
+If you have a Stream Deck, I suggest adding a 'Hotkey' button and bind it to an odd function-key like F24
 
 ## ✨ Features
 
