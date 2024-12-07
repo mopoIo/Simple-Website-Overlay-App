@@ -4,6 +4,10 @@ Display any website as a transparent, click-through overlay on your screen. I ma
 
 **If you have a Stream Deck, I suggest adding a 'Hotkey' button and bind it to an odd function-key like F24**
 
+## If you're not a nerd and just want the download, [just click here.](https://github.com/mopoIo/Simple-Website-Overlay-App/releases/tag/1.0.0)
+
+---
+
 ## ✨ Features
 
 - 🌐 Load any website as an overlay
