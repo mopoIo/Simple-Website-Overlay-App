@@ -19,6 +19,23 @@ Display any website as a transparent, click-through overlay on your screen. I ma
 - 💾 Automatic settings persistence
 - 📐 Smart scaling to maintain aspect ratio
 
+## 📖 How to Use
+
+### First Launch
+1. When you first start the app, you'll be prompted to enter a website URL
+2. Default hotkey is set to F24
+3. Default opacity is set to 50%
+
+### Controls
+- **🔄 Toggle Overlay**: Press your configured hotkey (default: F24)
+- **🔗 Change URL**: Right-click tray icon → Change URL
+- **⌨️ Change Hotkey**: Right-click tray icon → Change Hotkey
+- **�밝 Adjust Opacity**: Right-click tray icon → Opacity
+- **❌ Exit**: Right-click tray icon → Exit
+
+### System Tray
+The app runs quietly in your system tray. Double-click the tray icon to toggle the overlay.
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -43,23 +60,6 @@ npm install
 ```bash
 npm start
 ```
-
-## 📖 How to Use
-
-### First Launch
-1. When you first start the app, you'll be prompted to enter a website URL
-2. Default hotkey is set to F24
-3. Default opacity is set to 50%
-
-### Controls
-- **🔄 Toggle Overlay**: Press your configured hotkey (default: F24)
-- **🔗 Change URL**: Right-click tray icon → Change URL
-- **⌨️ Change Hotkey**: Right-click tray icon → Change Hotkey
-- **�밝 Adjust Opacity**: Right-click tray icon → Opacity
-- **❌ Exit**: Right-click tray icon → Exit
-
-### System Tray
-The app runs quietly in your system tray. Double-click the tray icon to toggle the overlay.
 
 ## 🛠️ Technical Details
 
