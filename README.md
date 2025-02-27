@@ -47,7 +47,7 @@ The app runs quietly in your system tray. Double-click the tray icon to toggle t
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/simple-website-overlay-app.git
+git clone https://github.com/mopoIo/Simple-Website-Overlay-App
 cd simple-website-overlay-app
 ```
 
